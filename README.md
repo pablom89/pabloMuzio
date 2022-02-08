@@ -24,8 +24,7 @@ Hi there, I'm Pablo Muzio 👋
         height="40"
         style="max-width: 100%;"
       />
-    </a>
-      
+    </a>      
       <a href="https://www.w3.org/html/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -34,9 +33,7 @@ Hi there, I'm Pablo Muzio 👋
         height="40"
         style="max-width: 100%;"
       />
-    </a>
-      
-      
+    </a>     
       <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       rel="nofollow"
