@@ -76,7 +76,8 @@ Hi there, I'm Pablo Muzio 👋
     </a>
       </p>      
 
-      ![react](./img/react.png)
+      
+![react](./img/react.png)
       
 
 
