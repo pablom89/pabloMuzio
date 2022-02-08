@@ -74,7 +74,9 @@ Hi there, I'm Pablo Muzio 👋
       />
     </a> 
       </p>      
-      <br/><img align="center" src="https://camo.githubusercontent.com/27b0f4f92d9e4b86ca634d8c833b2b3d26d68209b598cf51db11b6ff20f4a2ef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6361726c6f7373616c7661646f726469617a2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="pabloMuzio" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=pablom89&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+      <br/>
+      
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablom89)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
