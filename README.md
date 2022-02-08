@@ -1,4 +1,4 @@
-Hi there, I'm Pablo Muzio 👋
+<b>Hi there, I'm Pablo Muzio </b> 👋
 
 Here are some things you should know about me:
 
