@@ -74,9 +74,9 @@ Hi there, I'm Pablo Muzio 👋
         style="max-width: 100%;"
       />
     </a>
-            ![react](img/react.png)
       </p>      
 
+      ![react](img/react.png)
       
 
 
