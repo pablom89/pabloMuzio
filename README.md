@@ -97,8 +97,8 @@ Here are some things you should know about me:
       <img
         src="./img/logoWhat.png"
         alt="whatsApp"
-        width="40"
-        height="40"
+        width="20"
+        height="20"
         style="max-width: 100%;"
       />
        Escribime por WhatsApp!
