@@ -63,17 +63,17 @@ Hi there, I'm Pablo Muzio 👋
         height="40"
         style="max-width: 100%;"
       />
-    </a>
-       <a href="https://github.com/puppeteer/puppeteer">
+       <a href="https://git-scm.com/" rel="nofollow">
       <img
-        src="https://camo.githubusercontent.com/9391ab4ec8994e921292160bd31966a5886d8599af858ee5e513f2a3d868c403/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707074726465762f707074726465762d6f6666696369616c2e737667"
-        alt="puppeteer"
+        src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+        alt="git"
         width="40"
         height="40"
-        data-canonical-src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"
+        data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         style="max-width: 100%;"
       />
     </a>
+ 
       </p>
 </details>
 
