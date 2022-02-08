@@ -13,7 +13,7 @@ Hi there, I'm Pablo Muzio 👋
       >&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b
     >
   <br />
-  <p align="left" dir="auto">
+
 
 
     <a href="https://getbootstrap.com" rel="nofollow">
@@ -26,7 +26,7 @@ Hi there, I'm Pablo Muzio 👋
       />
     </a>
 
-  </p>
+
 
 
 
