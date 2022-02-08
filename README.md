@@ -64,6 +64,16 @@ Hi there, I'm Pablo Muzio 👋
         style="max-width: 100%;"
       />
     </a>
+       <a href="https://github.com/puppeteer/puppeteer">
+      <img
+        src="https://camo.githubusercontent.com/9391ab4ec8994e921292160bd31966a5886d8599af858ee5e513f2a3d868c403/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707074726465762f707074726465762d6f6666696369616c2e737667"
+        alt="puppeteer"
+        width="40"
+        height="40"
+        data-canonical-src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"
+        style="max-width: 100%;"
+      />
+    </a>
       </p>
 </details>
 
