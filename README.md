@@ -15,8 +15,6 @@ Hi there, I'm Pablo Muzio 👋
   <br />
 
 
-
-    <a href="https://getbootstrap.com" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap"
@@ -24,7 +22,7 @@ Hi there, I'm Pablo Muzio 👋
         height="40"
         style="max-width: 100%;"
       />
-    </a>
+
 
 
 
