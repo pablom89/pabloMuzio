@@ -92,6 +92,17 @@ Here are some things you should know about me:
       </p>      
 
  <b>Contact me:</b>
+ <br/><br/>
+ <a href="https://reactjs.org/" rel="nofollow">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react"
+        width="40"
+        height="40"
+        style="max-width: 100%;"
+      />
+       Escribime por WhatsApp!
+    </a> 
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
 <br/><br/>
