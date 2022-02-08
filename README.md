@@ -74,14 +74,15 @@ Hi there, I'm Pablo Muzio 👋
         style="max-width: 100%;"
       />
     </a>
-      </p>      
-<img
-        src="./img/react.png"
+            <img
+        src="./img/github.png"
         alt="git"
         width="40"
         height="40"
         style="max-width: 100%;"
       />
+      </p>      
+
       
 ![react](./img/react.png)
       
