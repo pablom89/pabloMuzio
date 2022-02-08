@@ -95,8 +95,8 @@ Here are some things you should know about me:
  <br/><br/>
  <a href="https://reactjs.org/" rel="nofollow">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
+        src="./img/logoWhatsApp.png"
+        alt="whatsApp"
         width="40"
         height="40"
         style="max-width: 100%;"
