@@ -93,7 +93,7 @@ Hi there, I'm Pablo Muzio 👋
       </p>      
 
       
-![react](./img/react.png)
+
       
 
 
