@@ -28,7 +28,7 @@ Hi there, I'm Pablo Muzio 👋
     </a>
       <a href="https://reactjs.org/" rel="nofollow">
       <img
-        src="./img/redux.png"
+        src="./img/redux1.png"
         alt="redux"
         width="40"
         height="40"
