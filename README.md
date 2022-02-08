@@ -95,7 +95,7 @@ Here are some things you should know about me:
  <br/><br/>
  <a href="https://reactjs.org/" rel="nofollow">
       <img
-        src="./img/logoWhatsApp.png"
+        src="./img/logoWhatsApp.jpg"
         alt="whatsApp"
         width="40"
         height="40"
