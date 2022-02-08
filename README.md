@@ -76,6 +76,13 @@ Hi there, I'm Pablo Muzio 👋
     </a>
       </p>      
 
+      <img
+        src="./img/react.png"
+        alt="git"
+        width="40"
+        height="40"
+        style="max-width: 100%;"
+      />
       
 ![react](./img/react.png)
       
