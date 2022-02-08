@@ -93,7 +93,7 @@ Here are some things you should know about me:
 
  <b>Contact me:</b>
  <br/><br/>
- <a href="https://reactjs.org/" rel="nofollow">
+ <p><a href="https://reactjs.org/" rel="nofollow">
       <img
         src="./img/logoWhat.png"
         alt="whatsApp"
@@ -102,7 +102,7 @@ Here are some things you should know about me:
         style="max-width: 100%; vertical-align: text-top;"
       />
        Escribime por WhatsApp!
-    </a> 
+    </a></p> 
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
 <br/><br/>
