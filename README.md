@@ -29,7 +29,7 @@ Hi there, I'm Pablo Muzio 👋
       <a href="https://reactjs.org/" rel="nofollow">
       <img
         src="./img/redux.png"
-        alt="react"
+        alt="redux"
         width="40"
         height="40"
         style="max-width: 100%;"
