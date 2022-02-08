@@ -4,7 +4,7 @@ Here are some things you should know about me:
 
 🔭 I am an accountant and web developer oriented to the front end and design.
 
-Contact me
+<b>Contact me:</b>
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
 <br/><br/>
