@@ -74,7 +74,7 @@ Hi there, I'm Pablo Muzio 👋
       />
     </a> 
       </p>      
-      <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablom89)]</div>
+
       
 
 
