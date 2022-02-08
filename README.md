@@ -73,9 +73,8 @@ Hi there, I'm Pablo Muzio 👋
         style="max-width: 100%;"
       />
     </a> 
-      </p>
-      
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablom89)]
+      </p>      
+      <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablom89)]</div>
       
 
 
