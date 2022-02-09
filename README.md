@@ -93,6 +93,8 @@ Here are some things you should know about me:
       </p>
       
       CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github]
+      
+      :nerd_face: <b>SOFT SKILLS:</b>
 
  <b>Contact me:</b>
  <br/><br/>
@@ -104,7 +106,7 @@ Here are some things you should know about me:
         height="20" 
         align="Absbottom"
       />
-       Leave me a message for WhatsApp!
+       Leave me a message!
     </a> 
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
