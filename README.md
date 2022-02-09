@@ -98,8 +98,8 @@ Here are some things you should know about me:
         src="./img/logoWhat.png"
         alt="whatsApp"
         width="20"
-        height="20"
-        style="vertical-align: text-bottom;" 
+        height="20" 
+        align="bottom"
       />
        Escribime por WhatsApp!
     </a> 
