@@ -93,13 +93,13 @@ Here are some things you should know about me:
 
  <b>Contact me:</b>
  <br/><br/>
- <a href="https://reactjs.org/" rel="nofollow" style="line-height: 20px">
+ <a href="https://reactjs.org/" rel="nofollow" style="line-height: 25px">
       <img
         src="./img/logoWhat.png"
         alt="whatsApp"
         width="20"
         height="20"
-        style="max-width: 100%; vertical-align: baseline;"
+        style="max-width: 100%; vertical-align: bottom;"
       />
        Escribime por WhatsApp!
     </a> 
