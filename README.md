@@ -93,7 +93,7 @@ Here are some things you should know about me:
 
  <b>Contact me:</b>
  <br/><br/>
- <a href="https://reactjs.org/" rel="nofollow">
+ <a href="https://wa.me/5493512003309?text=Hola%20Pablo,%20te%20contacto%20porque%20vi%20tu%20portafolio%20en%20Internet!" rel="nofollow">
       <img
         src="./img/logoWhat.png"
         alt="whatsApp"
@@ -101,7 +101,7 @@ Here are some things you should know about me:
         height="20" 
         align="Absbottom"
       />
-       Escribime por WhatsApp!
+       Contact me by WhatsApp!!
     </a> 
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
