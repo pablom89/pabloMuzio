@@ -141,8 +141,8 @@ No Activity tracked this Week
 <br/><br/>
 <b>Park Now - App to search for a parking lot in the city of Córdoba, Argentina.</b>
 <br/><br/>
-Application created with React and Redux, which allows you to search for nearby parking lots based on a destination entered by the user.
-I worked with the google API, the Socket.io library and for the back-end we used both PHP and Node.js.
+Application created with React and Redux, which allows you to search for nearby parking lots based on a destination entered by the user.<br/>
+I worked with the google API, the Socket.io library and for the back-end we used both PHP and Node.js.<br/>
 By entering the address Blamey Lafore 1463, you can see garages loaded as a test.
 <br/><br/>
 https://parking-now.herokuapp.com/
