@@ -13,6 +13,8 @@ Here are some things you should know about me:
         >🛠️</g-emoji
       >&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b
     >
+    
+    CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github]
 
   <br />
   <p align="left" dir="auto">
