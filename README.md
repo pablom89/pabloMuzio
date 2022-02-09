@@ -145,7 +145,7 @@ Application created with React and Redux, which allows you to search for nearby 
 I worked with the google API, the Socket.io library and for the back-end we used both PHP and Node.js.<br/>
 By entering the address Blamey Lafore 1463, you can see garages loaded as a test.
 <br/><br/>
-![Park-Now-App](./img/ParKnow.png)
+![ParkNow](./img/ParKnow.png)
 <br/><br/>
 https://parking-now.herokuapp.com/
 <br/><br/>
