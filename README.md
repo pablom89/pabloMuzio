@@ -99,7 +99,7 @@ Here are some things you should know about me:
         alt="whatsApp"
         width="20"
         height="20"
-        style="max-width: 100%; vertical-align: baseline;"
+        style="max-width: 100%; vertical-align: top;"
       />
        Escribime por WhatsApp!
     </a> 
