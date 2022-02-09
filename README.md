@@ -101,7 +101,7 @@ Here are some things you should know about me:
         height="20" 
         align="Absbottom"
       />
-       Contact me by WhatsApp!
+       leave me a message for WhatsApp!
     </a> 
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
