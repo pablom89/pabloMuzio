@@ -98,6 +98,7 @@ Here are some things you should know about me:
         src="./img/logoWhat.png"
         alt="whatsApp"
         width="20"
+        margin-top:"2px"
         height="20"
         style="max-width: 100%; vertical-align: top;"
       />
