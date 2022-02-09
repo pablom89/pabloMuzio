@@ -146,3 +146,11 @@ I worked with the google API, the Socket.io library and for the back-end we used
 By entering the address Blamey Lafore 1463, you can see garages loaded as a test.
 <br/><br/>
 https://parking-now.herokuapp.com/
+<br/><br/>
+<b>Flama Custom Pizza</b>
+<br/><br/>
+Flama custom Pizzas, is a place for the sale of personalized pizzas, assembled by customers.<br/>
+Previously, the way in which customers assembled their pizza was through a small paper form, this is how the Flama-Pizzas app was born, which aims to provide the customer with a digital interface, where they can assemble and order your pizza faster.<br/>
+The app generates a "order" ticket where the order is detailed, it has a private section, where the owners can create or delete new pizzas and/or toppings.
+<br/><br/>
+https://flama-pizzas-app.herokuapp.com/
