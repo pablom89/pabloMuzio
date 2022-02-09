@@ -100,7 +100,7 @@ There are some things you should know about me:
 :nerd_face: <b>Soft Skills:</b>
       <br/>
       <ul>
-            <li>Team-player</li>
+            <li>Team player</li>
             <li>Atention to details</li>
             <li>Adaptation</li>
             <li>Proactive</li>
