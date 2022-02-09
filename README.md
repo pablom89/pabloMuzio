@@ -1,8 +1,10 @@
 <b>Hi there, I'm Pablo Muzio </b> 👋
 
-Here are some things you should know about me:
+<b>I'm glad to have you here!</b>
 
-🔭 I am an accountant and web developer oriented to the front end and design.
+There are some things you should know about me:
+
+🔭 I am an accountant and web developer oriented to the front end.
 
 
 <br/>    <b
@@ -94,7 +96,7 @@ Here are some things you should know about me:
       
       CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github]
       
-      :nerd_face: <b>SOFT SKILLS:</b>
+:nerd_face: <b>SOFT SKILLS:</b>    
 
  <b>Contact me:</b>
  <br/><br/>
