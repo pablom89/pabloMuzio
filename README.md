@@ -96,7 +96,12 @@ There are some things you should know about me:
       
       CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github]
       
-:nerd_face: <b>Soft Skills:</b>    
+:nerd_face: <b>Soft Skills:</b>
+      <br/>
+      <ul>
+            <li>Team-player</li>
+            <li>Atention to details</li>
+      </ul>
 
  <b>Contact me:</b>
  <br/><br/>
