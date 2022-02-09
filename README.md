@@ -14,7 +14,6 @@ Here are some things you should know about me:
       >&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b
     >
     
-    CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github]
 
   <br />
   <p align="left" dir="auto">
@@ -91,7 +90,9 @@ Here are some things you should know about me:
         height="40"
         style="max-width: 100%;"
       />
-      </p>      
+      </p>
+      
+      CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github]
 
  <b>Contact me:</b>
  <br/><br/>
