@@ -101,6 +101,8 @@ There are some things you should know about me:
       <ul>
             <li>Team-player</li>
             <li>Atention to details</li>
+            <li>Adaptation</li>
+            <li>Proactive</li>
       </ul>
 
  <b>Contact me:</b>
