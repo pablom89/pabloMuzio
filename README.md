@@ -5,6 +5,7 @@
 There are some things you should know about me:
 
 💻 I am an accountant and web developer oriented to the front end.
+:yellow_heart: I love programing and make applications that are useful, that add value and make our lives easier.
 
 
 <br/>    <b
