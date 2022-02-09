@@ -93,7 +93,7 @@ Here are some things you should know about me:
 
  <b>Contact me:</b>
  <br/><br/>
- <a href="https://reactjs.org/" rel="nofollow" style="max-width: 100%;">
+ <a href="https://reactjs.org/" rel="nofollow">
       <img
         src="./img/logoWhat.png"
         alt="whatsApp"
