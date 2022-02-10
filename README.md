@@ -121,7 +121,7 @@ There are some things you should know about me:
 <br/><br/>
 :envelope: pablo_89_cba@hotmail.com
 <br/><br/>
-:telephone_receiver: +54 9 3512 003 309
+<!-- :telephone_receiver: +54 9 3512 003 309 -->
 <br/><br/>
 http://pablomuzio.herokuapp.com/contact
 <br/><br/>
