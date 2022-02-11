@@ -135,7 +135,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-:office_worker:<b>My last Projects / Works</b>
+:office_worker:<b>My last Project / Works</b>
 <br/><br/>
 <b>Park Now - App to search for a parking lot in the city of Córdoba, Argentina.</b>
 <br/><br/>
