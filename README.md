@@ -130,9 +130,11 @@ https://pablo-muzio.netlify.app
 
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 :office_worker:<b>My last Project / Works</b>
