@@ -95,7 +95,7 @@ There are some things you should know about me:
       />
       </p>
       
-      CONST HARDSKILLS = [React, Redux, HTML5, JavaScript, CSS, Bootstrap, Git, Github];
+      CONST HARDSKILLS = [JavaScript, React, Redux, HTML5, CSS, Bootstrap, Git, Github];
       
 :nerd_face: <b>Soft Skills:</b>
       <br/>
