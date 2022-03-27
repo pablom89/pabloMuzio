@@ -2,7 +2,7 @@
 
 <b>I'm glad to have you here!</b>
 
-There are some things you should know about me:
+About me:
 
 💻 I am an accountant and web developer oriented to the front end.<br/>
 :yellow_heart: I love make applications that are useful, that add value and make our lives easier.
