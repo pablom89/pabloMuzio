@@ -148,9 +148,9 @@ By entering the address Blamey Lafore 1463, you can see garages loaded as a test
 <br/><br/>
 https://parking-now.netlify.app/
 <br/><br/>
-<b>Flama Custom Pizza</b>
+<b>Flama Pizza</b>
 <br/><br/>
-Flama custom Pizzas, is a place for the sale of personalized pizzas, assembled by customers.<br/>
+Flama Pizzas, is a place for the sale of personalized pizzas, assembled by customers.<br/>
 Previously, the way in which customers assembled their pizza was through a small paper form, this is how the Flama-Pizzas app was born, which aims to provide the customer with a digital interface, where they can assemble and order your pizza faster.<br/>
 The app generates a ticket in which the order is detailed, it has a private section, where the owners can create or delete pizzas and/or toppings.
 <br/><br/>
