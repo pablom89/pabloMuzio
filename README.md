@@ -150,9 +150,9 @@ https://parking-now.netlify.app/
 <br/><br/>
 <b>Flama Pizza</b>
 <br/><br/>
-Flama Pizzas, is a place for the sale of personalized pizzas, assembled by customers.<br/>
-Previously, the way in which customers assembled their pizza was through a small paper form, this is how the Flama-Pizzas app was born, which aims to provide the customer with a digital interface, where they can assemble and order your pizza faster.<br/>
-The app generates a ticket in which the order is detailed, it has a private section, where the owners can create or delete pizzas and/or toppings.
+Flama Pizzas, is a place for the sale of personalized pizzas, assembled by customers.
+The App aims to provide clients with a digital interface, where they can place their order faster.
+It generates a ticket in which the order is detailed, it has a private section, where the owners can create or delete pizzas and/or toppings.
 <br/><br/>
 ![Flama](./img/Flama.png)
 <br/><br/>
