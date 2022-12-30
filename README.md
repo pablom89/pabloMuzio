@@ -156,6 +156,6 @@ It generates a ticket in which the order is detailed, it has a private section, 
 <br/><br/>
 ![Flama](./img/Flama.png)
 <br/><br/>
-https://flama-pizzas-app.herokuapp.com/
+https://flamapizzas.onrender.com/
 
 <!-- :telephone_receiver: +54 9 3512 003 309 -->
