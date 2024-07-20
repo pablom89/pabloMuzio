@@ -15,12 +15,10 @@ About me:
         fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"
         >🛠️</g-emoji
       >&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b
-    >
-    
+    >  
 
-  <br />
-          
-      CONST HARDSKILLS = [JavaScript, React, Redux, HTML5, CSS, Bootstrap, Git, Github];
+  <br />          
+      CONST HARDSKILLS = [JavaScript, React, Svelte, Sveltekit, HTML5, CSS, Bootstrap, Git, Github];
       
 :nerd_face: <b>Soft Skills:</b>
       <br/>
